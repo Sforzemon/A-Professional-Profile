@@ -30,6 +30,9 @@ header {
 .vertical {
   border-left: #0193c0 solid 1px;
 }
+.vertical2 {
+  border-left: #0193c0 solid 2px;
+}
 .active>.nav-link {
   color: #0193c0 !important;
 }
@@ -96,6 +99,9 @@ form {
 .card-footer{
   background-color: white;
   border-top: solid #733900 2px;
+}
+.specialLinks {
+  color:black
 }
   /* Start of Foundation Framework buttons */
 .rounded-social-buttons {
