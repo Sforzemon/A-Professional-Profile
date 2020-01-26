@@ -1,4 +1,4 @@
-# A-Professional-Profile - https://sforzemon.github.io/A-Professional-Profile/
+# https://sforzemon.github.io/A-Professional-Profile/
 
 This a new profile made to help promote myself.
 Stylistically it is similar to the last, but with a few more tweaks that I wasn't allowed to do with the initial.
